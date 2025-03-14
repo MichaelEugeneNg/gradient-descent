@@ -1,5 +1,6 @@
 # Gradient Descent (Batch, Stochastic)
 Implementations of a Batch and Stochastic Gradient Descent techniques
+
 Author: Michael Eugene Ng (SID: 3037857201)
 
 This repository contains 1 file excluding this README file:
